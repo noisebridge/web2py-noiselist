@@ -6,7 +6,7 @@ TODO list.
 
 To get this sample app framework up and running::
 
- > git clone XXX here
+ > git clone git@github.com:eleddy/web2py-noiselist.git
  > cd web2py-noiselist
  > python bootstrap.py # use the non-local python if you are on mac osx please
  > ./bin/buildout
