@@ -4,6 +4,13 @@ This package is meant to be used as part of a course covering several python web
 frameworks being taught in person. This will be the core code for making a simple
 TODO list.
 
+NOTE: Unlike the intro to python classes, this section of the course will not have 
+time to pay special attention to windows users. This part focuses on web development 
+in python, which is NOT windows friendly. Of course you may join and I will help as 
+much as possible but in general if you are serious about web development you should 
+borrow a friends computer or pair up with someone else in the class on a nix-like 
+system, which includes Mac OS X. Sorry!
+
 Further Documentation
 ---------------------
 * http://www.web2py.com/book/
