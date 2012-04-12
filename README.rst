@@ -30,6 +30,7 @@ For this class, we will go through the process of creating a personal TODO list 
 **Create a new simple app**
 
   - Start at http://127.0.0.1:8000/admin/default/site
+  - By default this lesson creates an admin password of "noise"
   - Create a new simple app named noiselist. web2py will setup a default folder structure for you with basic routing. This app can be viewed at http://127.0.0.1:8000/noiselist/default/index .
   - You can edit your new app through the web or on the filesystem, whichever feels better to you. The following instructions will work for either.
   - Through the web, you can edit your files at http://127.0.0.1:8000/admin/default/design/noiselist
